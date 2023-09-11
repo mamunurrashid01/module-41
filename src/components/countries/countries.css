@@ -1,0 +1,11 @@
+.countries-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 4px;
+}
+.visited{
+    background-color: rgb(224, 156, 73);
+}
+.non-visited{
+    background-color: blueviolet;
+}
